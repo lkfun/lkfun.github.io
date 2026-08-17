@@ -1,10 +1,12 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name         三国杀打小抄一将成名
 // @namespace    https://greasyfork.org/scripts/448004
-// @version      1.15.2
-// @author       小麦 孤独尊
-// @description  打小抄支持网页版和微端，微端文件请加群 830137048
+// @version      1.16.0
+// @author       哈哈
+// @description  哈哈
 // @icon         https://i0.hdslb.com/bfs/new_dyn/17ec41a0ca79633b77399065ab80da3f2138912.png
+// @downloadURL  https://lkfun.cc/script/daxiaochao.user.js
+// @updateURL    https://lkfun.cc/script/daxiaochao.meta.js
 // @match        https://game.4399iw2.com/yxxsgs/*
 // @match        *://*.sanguosha.com/10/*
 // @match        *://*.sanguosha.com/x/*

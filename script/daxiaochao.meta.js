@@ -1,7 +1,7 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name         三国杀打小抄一将成名
 // @namespace    https://greasyfork.org/scripts/448004
-// @version      1.16.1
+// @version      1.17.0
 // @author       哈哈
 // @description  哈哈
 // @icon         https://i0.hdslb.com/bfs/new_dyn/17ec41a0ca79633b77399065ab80da3f2138912.png
@@ -15,6 +15,7 @@
 // @match        *://h5.7k7k.com/web/H5GAMES.html?gid=960982bec2f555de44ea43ca8a7ef418/*
 // @match        *://qqgame.qq.com/webappframe/?appid=10951
 // @match        *://s118.app1107877410.qqopenapp.com/pc/qqLobby_index.php*
+// @match        *://sgsszn.wan.360.cn/game_login.php*
 // @exclude      *://*.sanguosha.com/220/*
 // @grant        none
 // @run-at       document-start

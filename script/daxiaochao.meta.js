@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         三国杀打小抄一将成名
 // @namespace    https://greasyfork.org/scripts/448004
-// @version      1.19.0
+// @version      1.19.2
 // @author       哈哈
 // @description  哈哈
 // @icon         https://i0.hdslb.com/bfs/new_dyn/17ec41a0ca79633b77399065ab80da3f2138912.png
-// @downloadURL  https://cdn.jsdelivr.net/gh/lkfun/lkfun.github.io@main/script/daxiaochao.meta.js
-// @updateURL    https://cdn.jsdelivr.net/gh/lkfun/lkfun.github.io@main/script/daxiaochao.user.js
+// @downloadURL  https://cdn.jsdmirror.com/gh/lkfun/lkfun.github.io@main/script/daxiaochao.meta.js
+// @updateURL    https://cdn.jsdmirror.com/gh/lkfun/lkfun.github.io@main/script/daxiaochao.user.js
 // @match        https://game.4399iw2.com/yxxsgs/*
 // @match        *://*.sanguosha.com/10/*
 // @match        *://*.sanguosha.com/x/*

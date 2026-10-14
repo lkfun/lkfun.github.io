@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         三国杀打小抄一将成名
 // @namespace    https://greasyfork.org/scripts/448004
-// @version      1.19.4
+// @version      1.19.5
 // @author       哈哈
 // @description  哈哈
 // @icon         https://i0.hdslb.com/bfs/new_dyn/17ec41a0ca79633b77399065ab80da3f2138912.png
